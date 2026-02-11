@@ -39,15 +39,11 @@ source venv/bin/activate
 
 ```
 
-
 3. **Instale as dependências:**
-⚠️ **Atenção:** A biblioteca correta é `python-jobspy`, não instale apenas `jobspy`.
 ```bash
-pip install python-jobspy pandas requests python-dotenv
+pip install -r requirements.txt
 
 ```
-
-
 
 ---
 
